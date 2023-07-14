@@ -1,0 +1,5 @@
+@import '@contember/admin/style.css';
+@import '@contember/cms-layout/index.css';
+
+@tailwind components;
+@tailwind utilities;
